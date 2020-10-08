@@ -1,0 +1,18 @@
+{
+  "name": "jest-dynalite-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --coverage --colors"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "jest-dynalite": "^3.0.0",
+  },
+  "dependencies": {
+    "aws-sdk": "^2.769.0",
+    "dynamodb": "^1.2.1"
+  }
+}
