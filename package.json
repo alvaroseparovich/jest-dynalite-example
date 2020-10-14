@@ -9,7 +9,7 @@
   "devDependencies": {
     "@types/jest": "^24.9.0",
     "jest": "^24.9.0",
-    "jest-dynalite": "^3.0.0",
+    "jest-dynalite": "^3.0.0"
   },
   "dependencies": {
     "aws-sdk": "^2.769.0",
